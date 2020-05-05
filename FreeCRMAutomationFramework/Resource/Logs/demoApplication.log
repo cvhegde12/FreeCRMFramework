@@ -1,0 +1,20 @@
+2020-05-05 13:43:31.138 [main] INFO  com.wbl.util.ExcelHelper - *********************Excel name: DataSheetforFreeCRM.xlsx
+2020-05-05 13:43:31.146 [main] INFO  com.wbl.util.ExcelHelper - Total rows:9
+2020-05-05 13:43:31.146 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.157 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.157 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.157 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.158 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.158 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.158 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.159 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:31.160 [main] INFO  com.wbl.util.ExcelHelper - Total columns:1
+2020-05-05 13:43:32.065 [main] INFO  com.wbl.page.ComparePage - Feature
+2020-05-05 13:43:32.105 [main] INFO  com.wbl.page.ComparePage - Free CRM
+2020-05-05 13:43:32.182 [main] INFO  com.wbl.page.ComparePage - SalesForce
+2020-05-05 13:43:32.207 [main] INFO  com.wbl.page.ComparePage - Insightly
+2020-05-05 13:43:32.236 [main] INFO  com.wbl.page.ComparePage - ZohoCRM
+2020-05-05 13:43:32.272 [main] INFO  com.wbl.page.ComparePage - Copper
+2020-05-05 13:43:32.299 [main] INFO  com.wbl.page.ComparePage - Bitrix24
+2020-05-05 13:43:32.322 [main] INFO  com.wbl.page.ComparePage - FreshSales
+2020-05-05 13:43:32.347 [main] INFO  com.wbl.page.ComparePage - PipeDrive
